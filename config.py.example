@@ -1,0 +1,9 @@
+ES_URL=""     #  Elasticsearch  Endpoint
+ES_USERNAME=""
+ES_PASSWORD=""
+ 
+KEYCLOAK_URL=""    #   Keycloak Enpoint
+REALM=""
+CLIENT_ID=""
+USERNAME=""
+PASSWORD=""

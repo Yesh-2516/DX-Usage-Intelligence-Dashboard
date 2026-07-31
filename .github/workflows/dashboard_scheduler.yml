@@ -1,0 +1,39 @@
+name: Fetch Dashboard Snapshot
+
+on:
+  schedule:
+      #Runs everyday
+      - cron: '0 0 * * *'
+  
+  #Allows you to run it manually from GitHub
+  workflow_dispatch:
+
+jobs:
+  fetch-snapshot:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run Fetch Script
+        env:
+          ES_URL: ${{ secrets.ES_URL }}
+          ES_USERNAME: ${{ secrets.ES_USERNAME }}
+          ES_PASSWORD: ${{ secrets.ES_PASSWORD }}
+          KEYCLOAK_URL: ${{ secrets.KEYCLOAK_URL }}
+          REALM: ${{ secrets.REALM }}
+          CLIENT_ID: ${{ secrets.CLIENT_ID }}
+          KC_USERNAME: ${{ secrets.KC_USERNAME }}
+          KC_PASSWORD: ${{ secrets.KC_PASSWORD }}
+        run: python fetch.py

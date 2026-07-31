@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+venv/
+
+# Secrets
+config.py
+.env
+
+# Runtime files
+alerts.log
+snapshots/*.json
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
