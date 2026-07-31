@@ -221,8 +221,8 @@ streamlit run Home.py
 
  AI - Assistant 
 
-![](screenshots/Ai_Assistant_1.png) 
-![](screenshots/Ai_Assistant_2.png) 
+![](screenshots/AI_Assistant_1.png) 
+![](screenshots/AI_Assistant_2.png) 
 
 
 # Snapshot Pipeline
