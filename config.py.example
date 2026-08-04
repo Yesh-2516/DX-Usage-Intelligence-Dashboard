@@ -5,5 +5,5 @@ ES_PASSWORD=""
 KEYCLOAK_URL=""    #   Keycloak Enpoint
 REALM=""
 CLIENT_ID=""
-USERNAME=""
-PASSWORD=""
+KC_USERNAME=""
+KC_PASSWORD=""
