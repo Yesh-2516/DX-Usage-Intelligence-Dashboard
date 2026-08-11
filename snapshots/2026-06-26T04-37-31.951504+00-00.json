@@ -1,0 +1,476 @@
+{
+    "timestamp": "2026-06-26T04:37:31.951504+00:00",
+    "domains": [
+        {
+            "name": "forest",
+            "count": 934
+        },
+        {
+            "name": "agriculture",
+            "count": 295
+        },
+        {
+            "name": "environmental monitoring",
+            "count": 42
+        },
+        {
+            "name": "fisheries",
+            "count": 21
+        },
+        {
+            "name": "telecom",
+            "count": 20
+        },
+        {
+            "name": "healthcare",
+            "count": 18
+        },
+        {
+            "name": "forestry",
+            "count": 15
+        },
+        {
+            "name": "governance",
+            "count": 15
+        },
+        {
+            "name": "education",
+            "count": 13
+        },
+        {
+            "name": "health",
+            "count": 13
+        },
+        {
+            "name": "information technology (it)",
+            "count": 13
+        },
+        {
+            "name": "insurance",
+            "count": 11
+        },
+        {
+            "name": "biotechnology",
+            "count": 10
+        },
+        {
+            "name": "human resources & staffing",
+            "count": 10
+        },
+        {
+            "name": "environmental management",
+            "count": 8
+        },
+        {
+            "name": "agriculture & farming",
+            "count": 7
+        },
+        {
+            "name": "automotive/mobility",
+            "count": 7
+        },
+        {
+            "name": "general",
+            "count": 7
+        },
+        {
+            "name": "agricultural",
+            "count": 6
+        },
+        {
+            "name": "hospitality & tourism",
+            "count": 6
+        },
+        {
+            "name": "other",
+            "count": 6
+        },
+        {
+            "name": "urban",
+            "count": 6
+        },
+        {
+            "name": "climate & sustainability",
+            "count": 5
+        },
+        {
+            "name": "energy",
+            "count": 5
+        },
+        {
+            "name": "technology",
+            "count": 5
+        },
+        {
+            "name": "transport",
+            "count": 5
+        },
+        {
+            "name": "water",
+            "count": 5
+        },
+        {
+            "name": "banking",
+            "count": 4
+        },
+        {
+            "name": "environment",
+            "count": 4
+        },
+        {
+            "name": "construction",
+            "count": 3
+        },
+        {
+            "name": "finance",
+            "count": 3
+        },
+        {
+            "name": "other industry",
+            "count": 3
+        },
+        {
+            "name": "banking & finance",
+            "count": 2
+        },
+        {
+            "name": "daily",
+            "count": 2
+        },
+        {
+            "name": "investment & asset management",
+            "count": 2
+        },
+        {
+            "name": "manufacturing",
+            "count": 2
+        },
+        {
+            "name": "real estate",
+            "count": 2
+        },
+        {
+            "name": "sector agnostic",
+            "count": 2
+        },
+        {
+            "name": "weekly",
+            "count": 2
+        },
+        {
+            "name": "agri-business management",
+            "count": 1
+        },
+        {
+            "name": "automotive",
+            "count": 1
+        },
+        {
+            "name": "defence",
+            "count": 1
+        },
+        {
+            "name": "energy & utilities",
+            "count": 1
+        },
+        {
+            "name": "grg",
+            "count": 1
+        },
+        {
+            "name": "gtg",
+            "count": 1
+        },
+        {
+            "name": "hyt",
+            "count": 1
+        },
+        {
+            "name": "legal services",
+            "count": 1
+        },
+        {
+            "name": "media & entertainment",
+            "count": 1
+        },
+        {
+            "name": "public administration",
+            "count": 1
+        },
+        {
+            "name": "retail & e-commerce",
+            "count": 1
+        },
+        {
+            "name": "sports & recreation",
+            "count": 1
+        },
+        {
+            "name": "thh",
+            "count": 1
+        },
+        {
+            "name": "transportation & logistics",
+            "count": 1
+        },
+        {
+            "name": "yhth",
+            "count": 1
+        }
+    ],
+    "providers": [
+        {
+            "name": "CDPG-At-IISc",
+            "count": 543
+        },
+        {
+            "name": "Healthcare Org 1 ",
+            "count": 198
+        },
+        {
+            "name": "IUDX - New 2020",
+            "count": 132
+        },
+        {
+            "name": "CDPG",
+            "count": 131
+        },
+        {
+            "name": "Test Org11",
+            "count": 85
+        },
+        {
+            "name": "CM343",
+            "count": 63
+        },
+        {
+            "name": "new Name Sandbox1",
+            "count": 58
+        },
+        {
+            "name": "Testing org123",
+            "count": 47
+        },
+        {
+            "name": "OrgTest007",
+            "count": 44
+        },
+        {
+            "name": "TesterNew",
+            "count": 22
+        },
+        {
+            "name": "new",
+            "count": 21
+        },
+        {
+            "name": "CDPG Tech",
+            "count": 17
+        },
+        {
+            "name": "Forest",
+            "count": 16
+        },
+        {
+            "name": "Test Organisation",
+            "count": 15
+        },
+        {
+            "name": "Sirpi",
+            "count": 13
+        },
+        {
+            "name": "Test 12",
+            "count": 12
+        },
+        {
+            "name": "Test Org Rohith",
+            "count": 12
+        },
+        {
+            "name": "Org144",
+            "count": 11
+        },
+        {
+            "name": "FSID 123989",
+            "count": 7
+        },
+        {
+            "name": "CDPG2",
+            "count": 5
+        },
+        {
+            "name": "JMC_sT",
+            "count": 5
+        },
+        {
+            "name": "demo org1",
+            "count": 5
+        },
+        {
+            "name": "Random-New-Org",
+            "count": 4
+        },
+        {
+            "name": "TR",
+            "count": 4
+        },
+        {
+            "name": "TestOrg1",
+            "count": 4
+        },
+        {
+            "name": "lopohOrg",
+            "count": 4
+        },
+        {
+            "name": "DoIT, Rajasthan",
+            "count": 3
+        },
+        {
+            "name": "RFD",
+            "count": 3
+        },
+        {
+            "name": "CDPG-IIsc-112233",
+            "count": 2
+        },
+        {
+            "name": "CDPG3",
+            "count": 2
+        },
+        {
+            "name": "Energy",
+            "count": 2
+        },
+        {
+            "name": "ForestDeptLtd. ",
+            "count": 2
+        },
+        {
+            "name": "NA",
+            "count": 2
+        },
+        {
+            "name": "OpenAI India Pvt Ltd",
+            "count": 2
+        },
+        {
+            "name": "OrgTech",
+            "count": 2
+        },
+        {
+            "name": "SIRPI Hebbal",
+            "count": 2
+        },
+        {
+            "name": "ShareCoins Ltd.",
+            "count": 2
+        },
+        {
+            "name": "AI Sandbox",
+            "count": 1
+        },
+        {
+            "name": "Agriculture and Co-operation",
+            "count": 1
+        },
+        {
+            "name": "Automation Organisation (Do not delete)",
+            "count": 1
+        },
+        {
+            "name": "FGoogle123",
+            "count": 1
+        },
+        {
+            "name": "Finance",
+            "count": 1
+        },
+        {
+            "name": "GoogleCDPG",
+            "count": 1
+        },
+        {
+            "name": "Novora Systems",
+            "count": 1
+        },
+        {
+            "name": "Org655",
+            "count": 1
+        },
+        {
+            "name": "Rajasthan Forestry",
+            "count": 1
+        },
+        {
+            "name": "TGDeX Demo Org",
+            "count": 1
+        },
+        {
+            "name": "agriculture",
+            "count": 1
+        },
+        {
+            "name": "test-org",
+            "count": 1
+        },
+        {
+            "name": "test-org012",
+            "count": 1
+        }
+    ],
+    "cities": [
+        {
+            "name": "rajasthan",
+            "count": 49
+        },
+        {
+            "name": "india",
+            "count": 17
+        },
+        {
+            "name": "subdistrict office, karnataka, india",
+            "count": 11
+        },
+        {
+            "name": "maharashtra, india",
+            "count": 4
+        },
+        {
+            "name": "telangana",
+            "count": 1
+        }
+    ],
+    "dataset_types": [
+        {
+            "name": "adex:databank",
+            "count": 997
+        },
+        {
+            "name": "adex:aimodel",
+            "count": 421
+        },
+        {
+            "name": "adex:apps",
+            "count": 136
+        }
+    ],
+    "access_policies": [
+        {
+            "name": "open",
+            "count": 965
+        },
+        {
+            "name": "restricted",
+            "count": 521
+        },
+        {
+            "name": "private",
+            "count": 68
+        }
+    ],
+    "user_count": 1605,
+    "provider_count": null,
+    "consumer_count": null
+}
