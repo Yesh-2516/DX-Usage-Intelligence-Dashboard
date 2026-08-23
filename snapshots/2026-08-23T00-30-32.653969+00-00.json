@@ -1,0 +1,667 @@
+{
+    "timestamp": "2026-08-23T00:30:32.653969+00:00",
+    "domains": [
+        {
+            "name": "forest",
+            "count": 1369
+        },
+        {
+            "name": "agriculture",
+            "count": 477
+        },
+        {
+            "name": "environmental monitoring",
+            "count": 210
+        },
+        {
+            "name": "technology",
+            "count": 69
+        },
+        {
+            "name": "healthcare",
+            "count": 44
+        },
+        {
+            "name": "governance",
+            "count": 23
+        },
+        {
+            "name": "fisheries",
+            "count": 21
+        },
+        {
+            "name": "telecom",
+            "count": 20
+        },
+        {
+            "name": "forestry",
+            "count": 17
+        },
+        {
+            "name": "testing",
+            "count": 15
+        },
+        {
+            "name": "education",
+            "count": 13
+        },
+        {
+            "name": "health",
+            "count": 13
+        },
+        {
+            "name": "information technology (it)",
+            "count": 13
+        },
+        {
+            "name": "environmental management",
+            "count": 12
+        },
+        {
+            "name": "insurance",
+            "count": 11
+        },
+        {
+            "name": "biotechnology",
+            "count": 10
+        },
+        {
+            "name": "human resources & staffing",
+            "count": 10
+        },
+        {
+            "name": "agriculture & farming",
+            "count": 7
+        },
+        {
+            "name": "automotive/mobility",
+            "count": 7
+        },
+        {
+            "name": "agricultural",
+            "count": 6
+        },
+        {
+            "name": "general",
+            "count": 6
+        },
+        {
+            "name": "hospitality & tourism",
+            "count": 6
+        },
+        {
+            "name": "other",
+            "count": 6
+        },
+        {
+            "name": "urban",
+            "count": 6
+        },
+        {
+            "name": "climate & sustainability",
+            "count": 5
+        },
+        {
+            "name": "energy",
+            "count": 5
+        },
+        {
+            "name": "transport",
+            "count": 5
+        },
+        {
+            "name": "water",
+            "count": 5
+        },
+        {
+            "name": "banking",
+            "count": 4
+        },
+        {
+            "name": "environment",
+            "count": 4
+        },
+        {
+            "name": "construction",
+            "count": 3
+        },
+        {
+            "name": "finance",
+            "count": 3
+        },
+        {
+            "name": "other industry",
+            "count": 3
+        },
+        {
+            "name": "banking & finance",
+            "count": 2
+        },
+        {
+            "name": "daily",
+            "count": 2
+        },
+        {
+            "name": "investment & asset management",
+            "count": 2
+        },
+        {
+            "name": "manufacturing",
+            "count": 2
+        },
+        {
+            "name": "real estate",
+            "count": 2
+        },
+        {
+            "name": "sector agnostic",
+            "count": 2
+        },
+        {
+            "name": "weekly",
+            "count": 2
+        },
+        {
+            "name": "agri-business management",
+            "count": 1
+        },
+        {
+            "name": "automotive",
+            "count": 1
+        },
+        {
+            "name": "defence",
+            "count": 1
+        },
+        {
+            "name": "energy & utilities",
+            "count": 1
+        },
+        {
+            "name": "grg",
+            "count": 1
+        },
+        {
+            "name": "gtg",
+            "count": 1
+        },
+        {
+            "name": "housing & urban development",
+            "count": 1
+        },
+        {
+            "name": "hyt",
+            "count": 1
+        },
+        {
+            "name": "legal services",
+            "count": 1
+        },
+        {
+            "name": "media & entertainment",
+            "count": 1
+        },
+        {
+            "name": "na",
+            "count": 1
+        },
+        {
+            "name": "public administration",
+            "count": 1
+        },
+        {
+            "name": "retail & e-commerce",
+            "count": 1
+        },
+        {
+            "name": "sports & recreation",
+            "count": 1
+        },
+        {
+            "name": "thh",
+            "count": 1
+        },
+        {
+            "name": "transportation & logistics",
+            "count": 1
+        },
+        {
+            "name": "urban governance",
+            "count": 1
+        },
+        {
+            "name": "urban planning",
+            "count": 1
+        },
+        {
+            "name": "waste management",
+            "count": 1
+        },
+        {
+            "name": "yhth",
+            "count": 1
+        }
+    ],
+    "providers": [
+        {
+            "name": "CDPG-At-IISc",
+            "count": 776
+        },
+        {
+            "name": "Healthcare Org 1 ",
+            "count": 295
+        },
+        {
+            "name": "Sirpi",
+            "count": 291
+        },
+        {
+            "name": "Testing org123",
+            "count": 194
+        },
+        {
+            "name": "IUDX - New 2020",
+            "count": 139
+        },
+        {
+            "name": "CDPG",
+            "count": 131
+        },
+        {
+            "name": "CM343",
+            "count": 97
+        },
+        {
+            "name": "Test Org11",
+            "count": 85
+        },
+        {
+            "name": "new Name Sandbox1",
+            "count": 58
+        },
+        {
+            "name": "OrgTest007",
+            "count": 44
+        },
+        {
+            "name": "Test Organisation",
+            "count": 22
+        },
+        {
+            "name": "TesterNew",
+            "count": 22
+        },
+        {
+            "name": "new",
+            "count": 21
+        },
+        {
+            "name": "CDPG Tech",
+            "count": 17
+        },
+        {
+            "name": "Forest",
+            "count": 16
+        },
+        {
+            "name": "Test 12",
+            "count": 12
+        },
+        {
+            "name": "Test Org Rohith",
+            "count": 12
+        },
+        {
+            "name": "Org144",
+            "count": 11
+        },
+        {
+            "name": "TestOrg1",
+            "count": 11
+        },
+        {
+            "name": "FSID 123989",
+            "count": 7
+        },
+        {
+            "name": "CDPG2",
+            "count": 5
+        },
+        {
+            "name": "JMC_sT",
+            "count": 5
+        },
+        {
+            "name": "demo org1",
+            "count": 5
+        },
+        {
+            "name": "AutoTestOrg-263329",
+            "count": 4
+        },
+        {
+            "name": "AutoTestOrg-742215",
+            "count": 4
+        },
+        {
+            "name": "Random-New-Org",
+            "count": 4
+        },
+        {
+            "name": "TR",
+            "count": 4
+        },
+        {
+            "name": "lopohOrg",
+            "count": 4
+        },
+        {
+            "name": "AutoTestOrg-024848",
+            "count": 3
+        },
+        {
+            "name": "AutoTestOrg-034223",
+            "count": 3
+        },
+        {
+            "name": "AutoTestOrg-044625",
+            "count": 3
+        },
+        {
+            "name": "AutoTestOrg-091861",
+            "count": 3
+        },
+        {
+            "name": "AutoTestOrg-213863",
+            "count": 3
+        },
+        {
+            "name": "AutoTestOrg-230637",
+            "count": 3
+        },
+        {
+            "name": "AutoTestOrg-252520",
+            "count": 3
+        },
+        {
+            "name": "AutoTestOrg-338056",
+            "count": 3
+        },
+        {
+            "name": "AutoTestOrg-380474",
+            "count": 3
+        },
+        {
+            "name": "AutoTestOrg-397422",
+            "count": 3
+        },
+        {
+            "name": "AutoTestOrg-440201",
+            "count": 3
+        },
+        {
+            "name": "AutoTestOrg-496959",
+            "count": 3
+        },
+        {
+            "name": "AutoTestOrg-662795",
+            "count": 3
+        },
+        {
+            "name": "AutoTestOrg-664464",
+            "count": 3
+        },
+        {
+            "name": "AutoTestOrg-673289",
+            "count": 3
+        },
+        {
+            "name": "AutoTestOrg-702808",
+            "count": 3
+        },
+        {
+            "name": "AutoTestOrg-781185",
+            "count": 3
+        },
+        {
+            "name": "AutoTestOrg-834161",
+            "count": 3
+        },
+        {
+            "name": "AutoTestOrg-894060",
+            "count": 3
+        },
+        {
+            "name": "AutoTestOrg-941327",
+            "count": 3
+        },
+        {
+            "name": "AutoTestOrg-946190",
+            "count": 3
+        },
+        {
+            "name": "AutoTestOrg-961418",
+            "count": 3
+        },
+        {
+            "name": "AutoTestOrg-990408",
+            "count": 3
+        },
+        {
+            "name": "Automation Organisation (Do not delete)",
+            "count": 3
+        },
+        {
+            "name": "DoIT, Rajasthan",
+            "count": 3
+        },
+        {
+            "name": "RFD",
+            "count": 3
+        },
+        {
+            "name": "CDPG-IIsc-112233",
+            "count": 2
+        },
+        {
+            "name": "CDPG3",
+            "count": 2
+        },
+        {
+            "name": "Energy",
+            "count": 2
+        },
+        {
+            "name": "ForestDeptLtd. ",
+            "count": 2
+        },
+        {
+            "name": "NA",
+            "count": 2
+        },
+        {
+            "name": "OpenAI India Pvt Ltd",
+            "count": 2
+        },
+        {
+            "name": "OrgTech",
+            "count": 2
+        },
+        {
+            "name": "Postman Test Organisation-1786043004737",
+            "count": 2
+        },
+        {
+            "name": "Rajasthan Forestry",
+            "count": 2
+        },
+        {
+            "name": "SIRPI Hebbal",
+            "count": 2
+        },
+        {
+            "name": "ShareCoins Ltd.",
+            "count": 2
+        },
+        {
+            "name": "AI Sandbox",
+            "count": 1
+        },
+        {
+            "name": "Agriculture and Co-operation",
+            "count": 1
+        },
+        {
+            "name": "FGoogle123",
+            "count": 1
+        },
+        {
+            "name": "Finance",
+            "count": 1
+        },
+        {
+            "name": "GoogleCDPG",
+            "count": 1
+        },
+        {
+            "name": "Novora Systems",
+            "count": 1
+        },
+        {
+            "name": "Org655",
+            "count": 1
+        },
+        {
+            "name": "Postman Test Organisation-1786007997742",
+            "count": 1
+        },
+        {
+            "name": "Postman Test Organisation-1786044998746",
+            "count": 1
+        },
+        {
+            "name": "TGDeX Demo Org",
+            "count": 1
+        },
+        {
+            "name": "agriculture",
+            "count": 1
+        },
+        {
+            "name": "e2e-dev-1912529afc-org",
+            "count": 1
+        },
+        {
+            "name": "e2e-dev-1912556ef7-org",
+            "count": 1
+        },
+        {
+            "name": "e2e-dev-191323d090-org",
+            "count": 1
+        },
+        {
+            "name": "e2e-dev-19134328da-org",
+            "count": 1
+        },
+        {
+            "name": "e2e-dev-191344a409-org",
+            "count": 1
+        },
+        {
+            "name": "e2e-dev-191345b488-org",
+            "count": 1
+        },
+        {
+            "name": "e2e-dev-202608181005-7d83-org",
+            "count": 1
+        },
+        {
+            "name": "e2e-dev-202608190855-1b2a-org",
+            "count": 1
+        },
+        {
+            "name": "e2e-dev-202608190857-8f45-org",
+            "count": 1
+        },
+        {
+            "name": "e2e-dev-202608190904-d92b-org",
+            "count": 1
+        },
+        {
+            "name": "e2e-dev-202608190911-62e9-org",
+            "count": 1
+        },
+        {
+            "name": "e2e-dev-2106548658-gworg",
+            "count": 1
+        },
+        {
+            "name": "e2e-dev-210702e0db-gworg",
+            "count": 1
+        },
+        {
+            "name": "test-org",
+            "count": 1
+        },
+        {
+            "name": "test-org012",
+            "count": 1
+        }
+    ],
+    "cities": [
+        {
+            "name": "rajasthan",
+            "count": 49
+        },
+        {
+            "name": "india",
+            "count": 17
+        },
+        {
+            "name": "subdistrict office, karnataka, india",
+            "count": 11
+        },
+        {
+            "name": "maharashtra, india",
+            "count": 4
+        },
+        {
+            "name": "telangana",
+            "count": 1
+        }
+    ],
+    "dataset_types": [
+        {
+            "name": "adex:databank",
+            "count": 1632
+        },
+        {
+            "name": "adex:aimodel",
+            "count": 603
+        },
+        {
+            "name": "adex:apps",
+            "count": 227
+        }
+    ],
+    "access_policies": [
+        {
+            "name": "open",
+            "count": 1619
+        },
+        {
+            "name": "restricted",
+            "count": 775
+        },
+        {
+            "name": "private",
+            "count": 68
+        }
+    ],
+    "user_count": 1675,
+    "total_datasets": 2462,
+    "total_domains": 60,
+    "total_providers": 91,
+    "total_dataset_types": 3,
+    "total_cities": 5
+}
